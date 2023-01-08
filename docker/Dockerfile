@@ -75,4 +75,3 @@ RUN \
 
 
 ENTRYPOINT ["/bin/sh", "/src/docker/entrypoint.sh"]
-CMD m4b-merge
